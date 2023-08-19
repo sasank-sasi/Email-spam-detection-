@@ -1,4 +1,4 @@
-# Email spam detection🫶![Spam Detection](spam_detection_image.png)
+# Email spam detection🫶!
 
 Email Spam Detection is a machine learning project that aims to classify emails as either "spam" or "non-spam" (also known as "ham"). This repository contains the code and resources necessary to train, evaluate, and deploy an email spam detection model.
 
